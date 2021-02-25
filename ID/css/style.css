@@ -2985,5 +2985,25 @@ div#rev-3 h4 {
         max-width: inherit
     }
 }
-
+@media (min-width: 1900px) {
+    .brandsite .grid-community .decor.item {
+        left: -85%;
+        top: -40%;
+    }
+    
+    .brandsite .grid-community .decor.item2 {
+        left: 90%;
+        top: 60%;
+    }
+    
+    .brandsite .grid-community .decor.item3 {
+        top: -45%;
+        left: 85%;
+    }
+    
+    .brandsite .grid-community .decor.item4 {
+        left: -90%;
+        top: 45%;
+    }
+    }
 /*# sourceMappingURL=style.css.map */
