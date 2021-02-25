@@ -1523,6 +1523,10 @@ body {
 }
 
 @media (max-width: 768px) {
+    .brandsite .grid-community .decor.item {
+        top: -12%!important;
+        left: -60%!important;
+    }
     .brandsite .grid-impact {
         padding: 50px 0
     }
@@ -2683,12 +2687,12 @@ body {
 }
 
 .brandsite .grid-community .decor.item {
-    left: -50%;
+    left: -60%;
     top: -20%
 }
 
 .brandsite .grid-community .decor.item2 {
-    left: 55%;
+    left: 65%;
     top: 40%
 }
 
@@ -2698,7 +2702,7 @@ body {
 }
 
 .brandsite .grid-community .decor.item4 {
-    left: -50%;
+    left: -70%;
     top: 45%
 }
 
