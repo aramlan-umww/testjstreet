@@ -2687,18 +2687,18 @@ body {
 }
 
 .brandsite .grid-community .decor.item {
-    left: -60%;
-    top: -20%
+    left: -80%;
+    top: -50%;
 }
 
 .brandsite .grid-community .decor.item2 {
-    left: 65%;
-    top: 40%
+    left: 85%;
+    top: 40%;
 }
 
 .brandsite .grid-community .decor.item3 {
-    top: -15%;
-    left: 60%
+    top: -85%;
+    left: 60%;
 }
 
 .brandsite .grid-community .decor.item4 {
@@ -2985,25 +2985,5 @@ div#rev-3 h4 {
         max-width: inherit
     }
 }
-@media (min-width: 1900px) {
-    .brandsite .grid-community .decor.item {
-        left: -85%;
-        top: -40%;
-    }
-    
-    .brandsite .grid-community .decor.item2 {
-        left: 90%;
-        top: 60%;
-    }
-    
-    .brandsite .grid-community .decor.item3 {
-        top: -45%;
-        left: 85%;
-    }
-    
-    .brandsite .grid-community .decor.item4 {
-        left: -90%;
-        top: 45%;
-    }
-    }
+ 
 /*# sourceMappingURL=style.css.map */
