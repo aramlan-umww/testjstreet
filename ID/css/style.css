@@ -1900,7 +1900,7 @@ body {
     top: 65%;
     left: -30%;
     position: absolute;
-    z-index: 1;
+    z-index: 0;
     width: 100%
 }
 
